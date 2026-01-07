@@ -379,7 +379,7 @@ nav i{
 
 .portfolio-content{
     flex: 1.8;
-    padding-left: 130px;
+    padding-left: 150px;
     padding-top: 50px;
 }
 
@@ -1052,6 +1052,7 @@ nav i{
         gap: 5px;
     }
 }
+
 
 
 
