@@ -123,9 +123,10 @@ nav i{
 
 #header p{
     color: var(--secondary-color);
-    font-size: 15px;
+    font-size: 17px;
     line-height: 35px;
     margin-bottom: 20px;
+    
 }
 
 #header button{
@@ -136,7 +137,7 @@ nav i{
 
 #header button a{
     color: #fff;
-    font-size: 15px;
+    font-size: 17px;
 }
 
 #header img{
@@ -183,7 +184,7 @@ nav i{
 #serve .services .service p{
     color: var(--secondary-color);
     line-height: 30px;
-    font-size: 15px;
+    font-size: 17px;
 }
 
 #serve .services .service .icons{
@@ -248,9 +249,10 @@ nav i{
 }
 
 .testimonial-card .role {
-    font-size: 14px;
+    font-size: 17px;
     color: var(--secondary-color);
     margin-bottom: 10px;
+    font-weight: 700;
 }
 
 .stars {
@@ -259,11 +261,11 @@ nav i{
 }
 
 .stars i {
-    font-size: 14px;
+    font-size: 17px;
 }
 
 .testimonial-card .message {
-    font-size: 14px;
+    font-size: 17px;
     line-height: 26px;
     color: #555;
 }
@@ -956,11 +958,11 @@ nav i{
     }
 
     .testimonial-card h3 {
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .testimonial-card .message {
-        font-size: 14px;
+        font-size: 17px;
         line-height: 24px;
     }
 
@@ -986,7 +988,7 @@ nav i{
         width: 36px;
         flex-shrink: 0;
         height: 36px;
-        font-size: 16px;
+        font-size: 17px;
     }
 
     .social-item span{
@@ -1035,7 +1037,7 @@ nav i{
 
     /* text */
     #contact .detail-box h5{
-    font-size: 15px;
+    font-size: 17px;
     }
 
     #contact .detail-box h4{
@@ -1053,6 +1055,7 @@ nav i{
         gap: 5px;
     }
 }
+
 
 
 
